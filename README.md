@@ -1,4 +1,4 @@
 # workstation
 
-TODO: Enter the cookbook description here.
+Primer cookbook del curso de automatización IT con CHEF
 
